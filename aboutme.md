@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hello, I am Giovanni
+subtitle: Research Fellow in Statistics @ UniMI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### My academic life
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Giovanni Bocchi. I am currently a post-doc researcher in Statistics at the [Department of Environmental Science and Policy](https://esp.unimi.it/) of the [University of Milan](https://www.unimi.it/en). 
 
-What else do you need?
+I obtained my BSc and MSc degrees in Mathematics at the University of Milan. Then, after a six-month scholarship, I started a PhD in Mathematics under the joint supervision of professors
+[Alessandra Micheletti](https://alessandramichelettiwebpage.wordpress.com/) and [Patrizio Frosini](https://www.dm.unibo.it/~frosini/). During my PhD I studied the applications of Group Equivariant Non-Expansive Operators (GENEOs) to the construction of ML and AI models, with a focus on model explainability and trustworthiness. The most interesting application took place during a fruitful collaboration, coordinated by [Dr. Carmine Talarico](https://it.linkedin.com/in/carmine-talarico-b5904973), with the Italian pharmaceutical company Dompé Farmaceutici S.p.A. GENEOnet, i.e. the explainable AI model for the detection of protein pockets that we have developed, can be tested on the webservice [https://geneonet.exscalate.eu](https://geneonet.exscalate.eu).
 
-### My story
+My current research interests include:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Applications of (x)AI to computational chemistry
+- Stochastic models for spatial biological data
+- Functional statistics applied to environmental data
+
+### About me
+
+When I don't do research...
