@@ -20,11 +20,11 @@ author: Giovanni Bocchi
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: index.html
+  About Me: aboutme.md
   Publications: "Publications"
   Talks: "Talks"
   Teaching: "Teaching"
-  Curriculum: "CV"
 
 ################
 # --- Logo --- #
