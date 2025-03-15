@@ -20,7 +20,7 @@ author: Giovanni Bocchi
 ###############################################
 
 navbar-links:
-  Home: index.html
+  Home: 
   About Me: aboutme
   Publications: "Publications"
   Talks: "Talks"
