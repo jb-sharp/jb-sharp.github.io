@@ -5,6 +5,7 @@ subtitle: New paper @ Scientific Reports
 thumbnail-img: /assets/img/spgeneos_thumb.png
 share-img: /assets/img/spgeneos_thumb.png
 tags: [paper, graphs, isomorphism, scientificreports]
+mathjax: true
 ---
 
 I am very happy to share our new paper **A novel approach to graph distinction through GENEOs and permutants** recently published Open Access in *Scientific Reports* :tada::tada:.
