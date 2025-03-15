@@ -20,9 +20,9 @@ author: Giovanni Bocchi
 ###############################################
 
 navbar-links:
-  Home: 
+  Home: https://jb-sharp.github.io/
   About Me: aboutme
-  Publications: "Publications"
+  Publications: publications
   Talks: "Talks"
   Teaching: "Teaching"
 
