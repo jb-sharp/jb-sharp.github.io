@@ -21,9 +21,10 @@ author: Giovanni Bocchi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Publications: "Publications"
+  Talks: "Talks"
+  Teaching: "Teaching"
+  Curriculum: "CV"
   Author's home: "https://deanattali.com"
 
 ################
