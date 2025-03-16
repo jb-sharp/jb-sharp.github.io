@@ -15,7 +15,7 @@ Talks that I gave as an invited speaker
 Talks that I gave as a contributed speaker
 
 - _Graph distinction through GENEOs and Permutants_    
-  3rd Workshop of UMI Group [Mathematics for Artificial Intelligence and Machine Learning](https://umi-math4aiml2025.uniba.it/). **(January 2025, Bari, Malta)**
+  3rd Workshop of UMI Group [Mathematics for Artificial Intelligence and Machine Learning](https://umi-math4aiml2025.uniba.it/). **(January 2025, Bari, Italy &#x1F1EE;&#x1F1F9;)**
 - _Explainable Machine Learning with Group Equivariant Non-Expansive Operators (GENEOs). An industrial application to Protein Pocket Detection._    
   Workshop on [Advancing Scientific Machine Learning in Industry](https://www.ias.tum.de/ias/research-areas/advanced-computation-and-modeling/scientific-machine-learning/). **(October 2024, Munich, Germany)**
 - _A Geometric XAI approach to Protein Pocket Detection_    
