@@ -138,14 +138,15 @@ keywords: "giovanni bocchi,academic page,personal page"
 page-col: "#FFFFFF"
 text-col: "#2F4858"
 link-col: "#E8282B"
-hover-col: "#FE85AC"
+link-hover-col: "#FE85AC"
+hover-col: "#E8282B"
 navbar-col: "#FFF5F1"
 navbar-text-col: "#2F4858"
 navbar-border-col: "#710000"
 footer-col: "#FFF5F1"
 footer-text-col: "#986A6B"
 footer-link-col: "#E8282B"
-footer-hover-col: "#FE85AC"
+footer-hover-col: "#E8282B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
