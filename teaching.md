@@ -4,39 +4,61 @@ title: Teaching
 subtitle: Teaching activities at UniMI
 ---
 
-2021/2022
-2nd semester
+Teaching materials are stored within the platform [myAriel](https://myariel.unimi.it/).
 
-Tutor for the module of Probability and Statistics of the course Probability, Statistics and Computer Science at the Department of Environmental Science and Policy.
+### 2024/2025 - 1st semester
 
-Teachers: Prof. Alessandra Micheletti, Prof. Federico Mattia Stefanini.
+[English] Teacher for the module of _Statistical Theory_ of the course _Statistical Theory and Mathematics_ at the Department of Economics, Management and Quantitative Methods.
 
-Link to Ariel.
-2022/2023
-1st semester
+Course holder: Prof. Samantha Leorato.
 
-Teacher for the module of Statistical Theory of the course Statistical Theory and Mathematics at the Department of Economics, Management and Quantitative Methods.
+### 2024/2025 - 1st semester
 
-Teacher: Prof. Alessandra Micheletti.
+[English] Tutor for the _Crash Course_ of the course _Statistical Methods in Environmental Studies_ at the Department of Environmental Science and Policy.
 
-Link to Ariel.
-2022/2023
-2nd semester
+Course holder: Prof. Federico Mattia Stefanini.
 
-Tutor for the module of Probability and Statistics of the course Probability, Statistics and Computer Science at the Department of Environmental Science and Policy.
+### 2023/2024 - 2nd semester
 
-Teachers: Prof. Alessandra Micheletti, Prof. Federico Mattia Stefanini.
+[Italian] Teacher for the course _Statistica per big data economico/aziendali_ at the Department of Economics, Management and Quantitative Methods.
 
-Link to Ariel.
-2022/2023
-2nd semester
+Course holder: Prof. Andrea Cappozzo.
 
-Teacher for the course Statistical Methods in Environmental Studies at the Department of Environmental Science and Policy.
+### 2023/2024 - 2nd semester
 
-Teacher: Prof. Federico Mattia Stefanini.
-2023/2024
-1st semester
+[Italian] Tutor for the module of _Probabilità e Statistica_ of the course _Probabilità, Statistica e Informatica_ at the Department of Environmental Science and Policy.
 
-Teacher for the module of Statistical Theory of the course Statistical Theory and Mathematics at the Department of Economics, Management and Quantitative Methods.
+Course holders: Prof. Alessandra Micheletti and Prof. Federico Mattia Stefanini.
 
-Teacher: Prof. Samantha Leorato.
+### 2023/2024 - 1st semester
+
+[English] Teacher for the module of _Statistical Theory_ of the course _Statistical Theory and Mathematics_ at the Department of Economics, Management and Quantitative Methods.
+
+Course holder: Prof. Samantha Leorato.
+
+### 2022/2023 - 2nd semester
+
+[English] Teacher for the course _Statistical Methods in Environmental Studies_ at the Department of Environmental Science and Policy.
+
+Course holder: Prof. Federico Mattia Stefanini.
+
+### 2022/2023 - 2nd semester
+
+[Italian] Tutor for the module of _Probabilità e Statistica_ of the course _Probabilità, Statistica e Informatica_ at the Department of Environmental Science and Policy.
+
+Course holders: Prof. Alessandra Micheletti and Prof. Federico Mattia Stefanini.
+
+### 2022/2023 - 1st semester
+
+[English] Teacher for the module of _Statistical Theory_ of the course _Statistical Theory and Mathematics_ at the Department of Economics, Management and Quantitative Methods.
+
+Course holder: Prof. Alessandra Micheletti.
+
+### 2021/2022 - 2nd semester
+
+[Italian] Tutor for the module of _Probabilità e Statistica_ of the course _Probabilità, Statistica e Informatica_ at the Department of Environmental Science and Policy.
+
+Course holders: Prof. Alessandra Micheletti and Prof. Federico Mattia Stefanini.
+
+
+
