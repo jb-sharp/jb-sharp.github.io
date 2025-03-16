@@ -7,6 +7,7 @@ subtitle: Journal and Conference papers
 ### Journal papers
 
 - **Bocchi, G.**; Ferri, M.; Frosini, P. A Novel Approach to Graph Distinction through GENEOs and Permutants. *Scientific Reports* 2025, 15 (1), 6259. [https://doi.org/10.1038/s41598-025-90152-7](https://doi.org/10.1038/s41598-025-90152-7).
+
 - **Bocchi, G.**; Botteghi, S.; Brasini, M.; Frosini, P.; Quercioli, N. On the Finite Representation of Linear Group Equivariant Operators via Permutant Measures. *Annals of Mathematics and Artificial Intelligence*, 2023, 91, 465–487. Available at [https://doi.org/10.1007/s10472-022-09830-1](https://doi.org/10.1007/s10472-022-09830-1).
 
 ### Conference papers
