@@ -2,8 +2,8 @@
 layout: post
 title: A novel approach to graph distinction through GENEOs and permutants
 subtitle: New paper @ Scientific Reports
-thumbnail-img: /assets/img/spgeneos_thumb.png
-share-img: /assets/img/spgeneos_thumb.png
+thumbnail-img: /assets/img/graph.png
+share-img: /assets/img/graph.png
 tags: [paper, geneos, permutants, graphs, isomorphism, scientificreports]
 mathjax: true
 ---
