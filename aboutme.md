@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello, I am Giovanni
+share-title: About Me
 subtitle: Research Fellow in Statistics @ UniMI
 ---
 
