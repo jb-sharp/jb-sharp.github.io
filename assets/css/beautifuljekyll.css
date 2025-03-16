@@ -78,7 +78,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: var(--hover-link-col);
+  color: var(--link-hover-col);
 }
 blockquote {
   color: var(--mid-col);
