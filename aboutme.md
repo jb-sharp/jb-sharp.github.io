@@ -19,4 +19,4 @@ My current research interests include:
 - Functional statistics applied to environmental data
 
 ### About me
-When I am not doing research, I like to drink tea :tea: (one of my favourites is Lapsang Souchong), to play board games :game_die: with friends and to take bad photos with digital and film cameras &#x1F4F7;.
+When I am not doing research, I like to drink tea &#x1F375; (one of my favourites is Lapsang Souchong), to play board games &#x1F3B2; with friends and to take bad photos with digital and film cameras &#x1F4F7;.
