@@ -136,16 +136,16 @@ keywords: "giovanni bocchi,academic page,personal page"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#005A34"
-hover-col: "#00AC7C"
-navbar-col: "#ABABAB"
+text-col: "#798897"
+link-col: "#E09A8E"
+hover-col: "#E8282B"
+navbar-col: "#F3EED9"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#ABABAB"
-footer-text-col: "#777777"
-footer-link-col: "#005A34"
-footer-hover-col: "#00AC7C"
+footer-col: "#F3EED9"
+footer-text-col: "#986A6B"
+footer-link-col: "#E09A8E"
+footer-hover-col: "#E8282B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
