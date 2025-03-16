@@ -50,5 +50,5 @@ Other talks that I gave
   [Doc in Progress](https://docinprogressunitn.wordpress.com/).    
   **(March 2023, Trento, Italy &#x1F1EE;&#x1F1F9;)**
 - _Group Equivariant Non-Expansive Operators: A blueprint for a different kind of Neural Networks_    
-  [PhdDays<sup>2</sup>](https://sites.google.com/view/phd2ays2022/home?authuser=0).    
+  [PhdD<sup>2</sup>ays](https://sites.google.com/view/phd2ays2022/home?authuser=0).    
   **(December 2022, Milan, Italy &#x1F1EE;&#x1F1F9;)**
