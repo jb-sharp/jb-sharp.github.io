@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 subtitle: Talks that I gave at Conferences and Workshops
+mathjax: true
 ---
 
 ### Invited talks
@@ -13,9 +14,12 @@ Talks that I gave as an invited speaker
 ### Contributed talks
 Talks that I gave as a contributed speaker
 
-- Bari
-- Monaco
-- Malta
+- _Graph distinction through GENEOs and Permutants_
+  3rd Workshop of UMI Group [Mathematics for Artificial Intelligence and Machine Learning](https://umi-math4aiml2025.uniba.it/). **(January 2025, Bari, Malta)**
+- _Explainable Machine Learning with Group Equivariant Non-Expansive Operators (GENEOs). An industrial application to Protein Pocket Detection._
+  Workshop on [Advancing Scientific Machine Learning in Industry](https://www.ias.tum.de/ias/research-areas/advanced-computation-and-modeling/scientific-machine-learning/). **(October 2024, Munich, Germany)**
+- _A Geometric XAI approach to Protein Pocket Detection_
+  2nd World Conference on [eXplainable Artificial Intelligence (xAI-2024)](https://xaiworldconference.com/2024/). **(July 2024, Valletta, Malta)**
 - *Explainable Machine Learning based on Group Equivariant Non-Expansive Operators (GENEOs). Protein pocket detection: a case study.*
   Conference [SIS 2023 - Statistical Learning, Sustainability and Impact Evaluation](https://meetings3.sis-statistica.org/index.php/ancona/ancona) **(June 2023, Ancona, Italy)**
 - *A new paradigm for Artificial Intelligence based on Group Equivariant Non-Expansive Operators (GENEOs) applied to protein pocket detection.*
@@ -30,5 +34,8 @@ Talks that I gave as a contributed speaker
 ### Other talks
 Other talks that I gave
 
-- Doc in progress
-- PhdDays^2
+- [In Italian] _Intelligenza Artificilale: la Matematica della trasparenza_ [I venerdì della Biblioteca](https://www.fondazionecrp.it/eventi/categoria/attivita-culturali/biblioteca-di-busseto/i-venerdi-della-biblioteca/). **(March 2024, Busseto, Italy)**
+- _Group Equivariant Non-Expansive Operators: a pathway towards Explainable Machine Learning_
+  [Doc in Progress](https://docinprogressunitn.wordpress.com/). **(March 2023, Trento, Italy)**
+- _Group Equivariant Non-Expansive Operators: A blueprint for a different kind ofNeural Networks_
+  [PhdDays<sup>2</sup>](https://sites.google.com/view/phd2ays2022/home?authuser=0). **(December 2022, Milan, Italy)**
