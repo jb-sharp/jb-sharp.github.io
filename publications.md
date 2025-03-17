@@ -6,9 +6,9 @@ subtitle: Journal and Conference papers
 
 ### Journal papers
 
-- **Bocchi, G.**; Frosini, P.; Micheletti, A.; Pedretti, A.; Gratteri, C.; Lunghini, F.; Beccari, A. R.; Talarico, C. GENEOnet: Statistical Analysis Supporting Explainability and Trustworthiness. _Statistics_, 2025, to appear.
+- **Bocchi, G.**; Frosini, P.; Micheletti, A.; Pedretti, A.; Gratteri, C.; Lunghini, F.; Beccari, A. R.; and, C. T. GENEOnet: Statistical Analysis Supporting Explainability and Trustworthiness. _Statistics_ 2025, 0 (0), 1–26. [https://doi.org/10.1080/02331888.2025.2478203](https://doi.org/10.1080/02331888.2025.2478203).
 - **Bocchi, G.**; Ferri, M.; Frosini, P. A Novel Approach to Graph Distinction through GENEOs and Permutants. *Scientific Reports*, 2025, 15 (1), 6259. [https://doi.org/10.1038/s41598-025-90152-7](https://doi.org/10.1038/s41598-025-90152-7).
-- **Bocchi, G.**; Botteghi, S.; Brasini, M.; Frosini, P.; Quercioli, N. On the Finite Representation of Linear Group Equivariant Operators via Permutant Measures. *Annals of Mathematics and Artificial Intelligence*, 2023, 91, 465–487. Available at [https://doi.org/10.1007/s10472-022-09830-1](https://doi.org/10.1007/s10472-022-09830-1).
+- **Bocchi, G.**; Botteghi, S.; Brasini, M.; Frosini, P.; Quercioli, N. On the Finite Representation of Linear Group Equivariant Operators via Permutant Measures. *Annals of Mathematics and Artificial Intelligence*, 2023, 91, 465–487. [https://doi.org/10.1007/s10472-022-09830-1](https://doi.org/10.1007/s10472-022-09830-1).
 
 ### Conference papers
 
@@ -22,7 +22,6 @@ subtitle: Journal and Conference papers
 
 ### Preprints
 
-- **Bocchi, G.**; Frosini, P.; Micheletti, A.; Pedretti, A.; Gratteri, C.; Lunghini, F.; Beccari, A. R.; Talarico, C. GENEOnet: Statistical Analysis Supporting Explainability and Trustworthiness. Preprint at arXiv 2025. Available at [https://arxiv.org/abs/2503.09199](https://arxiv.org/abs/2503.09199)
 - Lavado, D.; **Bocchi, G.**; Frosini, P.; Micheletti, A.; Soares, C. Unlocking Geometric Induction: Advancing 3d Scene Understanding with Group Equivariant Non-Expansive Operators. Preprint at SSRN, 2024. Available at [https://doi.org/10.2139/ssrn.4954143](https://doi.org/10.2139/ssrn.4954143).
 - Lavado, D.; Soares, C.; Micheletti, A.; **Bocchi, G.**; Coronati, A.; Silva, M.; Frosini, P. Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification. Preprint at arXiv 2023. Available at [https://doi.org/10.48550/arXiv.2306.07809](https://doi.org/10.48550/arXiv.2306.07809)
 - **Bocchi, G.**; Frosini, P.; Micheletti, A.; Pedretti, A.; Gratteri, C.; Lunghini, F.; Beccari, A. R.; Talarico, C. GENEOnet: A New Machine Learning Paradigm Based on Group Equivariant Non-Expansive Operators. An Application to Protein Pocket Detection. Preprint at arXiv 2022. Available at [https://doi.org/10.48550/arXiv.2202.00451](https://doi.org/10.48550/arXiv.2202.00451).
