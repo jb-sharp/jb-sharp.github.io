@@ -4,7 +4,7 @@ title: GENEOnet: statistical analysis supporting explainability and trustworthin
 subtitle: New paper @ Statistics
 thumbnail-img: /assets/img/robustness.png
 share-img: /assets/img/robustness.png
-tags: [paper, geneos, geneonet, explainability, robustness, pocket detection]
+tags: [paper, geneos, geneonet, explainability, robustness, pocket_detection]
 mathjax: true
 ---
 
