@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GENEOnet\: statistical analysis supporting explainability and trustworthiness
+title: GENEOnet - statistical analysis supporting explainability and trustworthiness
 subtitle: New paper @ Statistics
 thumbnail-img: /assets/img/robustness.png
 share-img: /assets/img/robustness.png
