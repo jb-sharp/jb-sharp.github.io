@@ -13,4 +13,4 @@ I am very happy to share our new paper **GENEOnet: statistical analysis supporti
 We further studied our GENEOnet AI model from a statistical point of view. The various analyses conducted showed that GENEOnet possesses a high level of explainability and robustness to perturbations, qualifying it as a trustworthy AI model.
 
 - [Paper](https://www.tandfonline.com/doi/full/10.1080/02331888.2025.2478203)
-- [Accepted version]()
+- [Accepted version](/assets/paper/statistics25_accepted.pdf)
