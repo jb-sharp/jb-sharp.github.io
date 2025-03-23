@@ -14,4 +14,4 @@ We developed a simple and explainable GENEO network to test graph isomorphism us
 
 - [Paper](https://www.nature.com/articles/s41598-025-90152-7)
 - [Codes](https://github.com/jb-sharp/spgeneos)
-- [Slides]()
+- [Slides](/assets/slides/talk_math4aiml25.pdf)
