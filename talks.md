@@ -18,8 +18,8 @@ Talks that I gave as a contributed speaker
 
 - _Statistical analysis of GENEOnet robustness_    
   Conference [Statistics and Data Science 2025](https://sds2025.sis-statistica.it/).  
-  **(March 2025, Milan, Italy &#x1F1EE;&#x1F1F9;)**    
-  [Slides](/assets/slides/talk_sds2025.html)
+  **(April 2025, Milan, Italy &#x1F1EE;&#x1F1F9;)**    
+  [Slides](/assets/slides/talk_sds25.html)
 - _Graph distinction through GENEOs and Permutants_    
   3rd Workshop of UMI Group [Mathematics for Artificial Intelligence and Machine Learning](https://umi-math4aiml2025.uniba.it/).    
   **(January 2025, Bari, Italy &#x1F1EE;&#x1F1F9;)**    
