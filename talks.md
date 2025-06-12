@@ -16,6 +16,10 @@ Talks that I gave as an invited speaker
 ### Contributed talks
 Talks that I gave as a contributed speaker
 
+- _Statistical analysis of GENEOnet robustness_    
+  Conference [Statistics and Data Science 2025](https://sds2025.sis-statistica.it/).  
+  **(March 2025, Milan, Italy &#x1F1EE;&#x1F1F9;)**    
+  [Slides](/assets/slides/talk_sds2025.html)
 - _Graph distinction through GENEOs and Permutants_    
   3rd Workshop of UMI Group [Mathematics for Artificial Intelligence and Machine Learning](https://umi-math4aiml2025.uniba.it/).    
   **(January 2025, Bari, Italy &#x1F1EE;&#x1F1F9;)**    
@@ -33,7 +37,7 @@ Talks that I gave as a contributed speaker
   **(June 2023, Ancona, Italy &#x1F1EE;&#x1F1F9;)**    
   [Slides](/assets/slides/talk_sis23.pdf) [Poster](/assets/poster/poster_sis23.pdf)
 - *A new paradigm for Artificial Intelligence based on Group Equivariant Non-Expansive Operators (GENEOs) applied to protein pocket detection.*    
-  Conference [Statistics and Data Science](https://sites.google.com/universitadipavia.it/sdsconference-pavia/home)    
+  Conference [Statistics and Data Science 2024](https://sites.google.com/universitadipavia.it/sdsconference-pavia/home)    
   **(April 2023, Pavia, Italy &#x1F1EE;&#x1F1F9;)**    
   [Slides](/assets/slides/talk_sds23.pdf)
 - *Group Equivariant Non-Expansive Operators: from TDA to Neural Networks.*    
