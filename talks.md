@@ -16,6 +16,11 @@ Talks that I gave as an invited speaker
 ### Contributed talks
 Talks that I gave as a contributed speaker
 
+- _Prototypical Explanations in an AI method for Protein Pocket Detection_    
+  Conference [SIS 2025 Statistics for innovation](https://sis2025.sis-statistica.it/).  
+  Satellite event [SAFE-ML Satellite meeting](https://sis2025.sis-statistica.it/pavia-safe-ml-satellite-meeting/)    
+  **(June 2025, Genova and Pavia, Italy &#x1F1EE;&#x1F1F9;)**    
+  [Slides](/assets/slides/talk_sis25.pdf)
 - _Statistical analysis of GENEOnet robustness_    
   Conference [Statistics and Data Science 2025](https://sds2025.sis-statistica.it/).  
   **(April 2025, Milan, Italy &#x1F1EE;&#x1F1F9;)**    
