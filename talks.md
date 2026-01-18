@@ -16,6 +16,10 @@ Talks that I gave as an invited speaker
 ### Contributed talks
 Talks that I gave as a contributed speaker
 
+- _The impact of high temperatures on Italian maize yield_    
+  Conference [GRASPA 2025](https://graspa2025.sis-statistica.it).  
+  **(September 2025, Rome, Italy &#x1F1EE;&#x1F1F9;)**    
+  [Slides](/assets/slides/talk_graspa25.pdf)
 - _Prototypical Explanations in an AI method for Protein Pocket Detection_    
   Conference [SIS 2025 Statistics for innovation](https://sis2025.sis-statistica.it/).  
   Satellite event [SAFE-ML Satellite meeting](https://sis2025.sis-statistica.it/pavia-safe-ml-satellite-meeting/)    
@@ -42,7 +46,7 @@ Talks that I gave as a contributed speaker
   **(June 2023, Ancona, Italy &#x1F1EE;&#x1F1F9;)**    
   [Slides](/assets/slides/talk_sis23.pdf) [Poster](/assets/poster/poster_sis23.pdf)
 - *A new paradigm for Artificial Intelligence based on Group Equivariant Non-Expansive Operators (GENEOs) applied to protein pocket detection.*    
-  Conference [Statistics and Data Science 2024](https://sites.google.com/universitadipavia.it/sdsconference-pavia/home)    
+  Conference [Statistics and Data Science 2023](https://sites.google.com/universitadipavia.it/sdsconference-pavia/home)    
   **(April 2023, Pavia, Italy &#x1F1EE;&#x1F1F9;)**    
   [Slides](/assets/slides/talk_sds23.pdf)
 - *Group Equivariant Non-Expansive Operators: from TDA to Neural Networks.*    
