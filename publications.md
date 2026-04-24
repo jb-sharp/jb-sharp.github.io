@@ -24,7 +24,5 @@ subtitle: Journal and Conference papers
 - **Bocchi, G**. Networks of Group Equivariant Non-Expansive Operators for Artificial Intelligence. Models, Applications and Interpretability. Supervisors: Micheletti A., Frosini P., Talarico C. PhD thesis, Department of Mathematics, University of Milan, Milan, Italy, 18 Feb 2025. [https://hdl.handle.net/2434/1141329](https://hdl.handle.net/2434/1141329)
 
 ### Preprints
-
+- **Bocchi, G.**; Micheletti, A.; Nota, P.; Olper, A.; The impact of abnormal temperatures on crop yields in Italy: a functional quantile regression approach, Preprint at arXiv, 2026. Available at [https://arxiv.org/abs/2601.12864](https://arxiv.org/abs/2601.12864).
 - Lavado, D.; **Bocchi, G.**; Frosini, P.; Micheletti, A.; Soares, C. Unlocking Geometric Induction: Advancing 3d Scene Understanding with Group Equivariant Non-Expansive Operators. Preprint at SSRN, 2024. Available at [https://doi.org/10.2139/ssrn.4954143](https://doi.org/10.2139/ssrn.4954143).
-- Lavado, D.; Soares, C.; Micheletti, A.; **Bocchi, G.**; Coronati, A.; Silva, M.; Frosini, P. Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification. Preprint at arXiv 2023. Available at [https://doi.org/10.48550/arXiv.2306.07809](https://doi.org/10.48550/arXiv.2306.07809)
-- **Bocchi, G.**; Frosini, P.; Micheletti, A.; Pedretti, A.; Gratteri, C.; Lunghini, F.; Beccari, A. R.; Talarico, C. GENEOnet: A New Machine Learning Paradigm Based on Group Equivariant Non-Expansive Operators. An Application to Protein Pocket Detection. Preprint at arXiv 2022. Available at [https://doi.org/10.48550/arXiv.2202.00451](https://doi.org/10.48550/arXiv.2202.00451).
