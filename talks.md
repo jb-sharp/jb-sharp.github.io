@@ -16,6 +16,10 @@ Talks that I gave as an invited speaker
 ### Contributed talks
 Talks that I gave as a contributed speaker
 
+- _GENEOmap: trustworthy binary classification of protein binding sites_    
+  Conference [IFCS 2026]([https://graspa2025.sis-statistica.it](https://ifcs2026.unimib.it/)).  
+  **(July 2026, Milan, Italy &#x1F1EE;&#x1F1F9;)**    
+  [Slides](/assets/slides/talk_ifcs26.pdf)
 - _The impact of high temperatures on Italian maize yield_    
   Conference [GRASPA 2025](https://graspa2025.sis-statistica.it).  
   **(September 2025, Rome, Italy &#x1F1EE;&#x1F1F9;)**    
